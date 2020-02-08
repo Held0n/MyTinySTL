@@ -1,7 +1,9 @@
+//
+// 用于类型萃取
+//
 #ifndef TINYSTL_TYPE_TRAITS_H
 #define TINYSTL_TYPE_TRAITS_H
 
-// 头文件用于类型萃取
 #include <type_traits>
 
 namespace mystl {

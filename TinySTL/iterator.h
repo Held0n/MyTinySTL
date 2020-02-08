@@ -1,7 +1,8 @@
+//
+// 有关迭代器设计的头文件
+//
 #ifndef TINYSTL_ITERATOR_H
 #define TINYSTL_ITERATOR_H
-
-// 有关迭代器设计的头文件
 
 // ptrdiff_t
 #include <cstddef>
